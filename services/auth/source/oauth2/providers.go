@@ -12,7 +12,7 @@ import (
 	"code.gitea.io/gitea/modules/log"
 	"code.gitea.io/gitea/modules/setting"
 
-	"github.com/markbates/goth"
+	"github.com/chizutan5/goth"
 )
 
 // Provider is an interface for describing a single OAuth2 provider
